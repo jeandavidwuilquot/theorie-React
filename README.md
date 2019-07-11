@@ -46,5 +46,5 @@ Allez, viens je t'emmène
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/907904632812971983/B32AC6AD2B576DFAE01BDA589E867ED152F85BBC/" />
 
-<ul><li><a href="https://github.com/GuyVil1/theorie-React/blob/master/1.Ma-premiere-app.md">Ma première app</a></li></ul>
+<a href="https://github.com/GuyVil1/theorie-React/blob/master/1.Ma-premiere-app.md">Ma première app</a>
 
