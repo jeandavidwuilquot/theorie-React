@@ -38,6 +38,8 @@ Ce repo est donc idéal pour apprendre de nouvelles choses, tout en révisant se
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/14.fil-rouge-partie-2-3.md">14. Kill alloCiné - Partie 6</a></li>
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/15.Fil-rouge-2-4.md">15. Kill Allociné - Récap des fichiers codés</a></li>
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/16.Le-style-en-React.md">16. Les feuille de style en React</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/17.%20les%20modules%20Css%20et%20Sasss.md">17. Le Css et le Sass</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/18.le-rendu-conditionnel.md>18. Le rendu conditionnel</a></li>
 </ul>
 
 Allez, viens je t'emmène
