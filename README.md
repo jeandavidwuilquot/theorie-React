@@ -40,7 +40,9 @@ Ce repo est donc idéal pour apprendre de nouvelles choses, tout en révisant se
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/16.Le-style-en-React.md">16. Les feuille de style en React</a></li>
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/17.%20les%20modules%20Css%20et%20Sasss.md">17. Le Css et le Scss</a></li>
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/18.le-rendu-conditionnel.md">18. Le Rendu Conditionnel</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/18.le-rendu-conditionnel.md/#variables">19. Utiliser des variables et des composants dans un Rendu Conditionnel</a></li>
 </ul>
+
 
 Allez, viens je t'emmène
 
